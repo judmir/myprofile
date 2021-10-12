@@ -35,6 +35,7 @@ module.exports = {
           'success': '#009485',
           'warning': '#ff9900',
           'error': '#ff5724',
+          'white': '#fff'
         },
       },
     ],
