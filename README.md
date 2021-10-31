@@ -32,7 +32,7 @@ after run the command above you can access:
 - api: http://localhost:8000
 - client: http://localhost:3000
 
-> if you want restart the project run `docker-composer up -d`
+> if you want restart the project run `docker-compose up -d`
 
 [ci_api_badge]: https://github.com/eerison/myprofile/actions/workflows/ci_api.yml/badge.svg?branch=master
 [ci_api_link]: https://github.com/eerison/myprofile/actions/workflows/ci_api.yml?query=branch%3Amaster++
